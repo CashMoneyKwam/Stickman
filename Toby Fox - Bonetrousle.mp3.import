@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://buea1monyrmu4"
+path="res://.godot/imported/Toby Fox - Bonetrousle.mp3-1a361fdb7699e13de10fbd2d33ab0ed8.mp3str"
+
+[deps]
+
+source_file="res://Toby Fox - Bonetrousle.mp3"
+dest_files=["res://.godot/imported/Toby Fox - Bonetrousle.mp3-1a361fdb7699e13de10fbd2d33ab0ed8.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
