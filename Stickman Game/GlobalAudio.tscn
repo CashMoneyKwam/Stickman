@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dqcnb7nivx4jd"]
+
+[ext_resource type="AudioStream" uid="uid://buea1monyrmu4" path="res://Toby Fox - Bonetrousle.mp3" id="1_lvjyi"]
+
+[node name="GlobalAudio" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_lvjyi")
+volume_db = -16.343
+autoplay = true

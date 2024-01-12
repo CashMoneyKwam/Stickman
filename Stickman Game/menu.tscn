@@ -1,0 +1,48 @@
+[gd_scene load_steps=3 format=3 uid="uid://e5uqkp7g3xov"]
+
+[ext_resource type="Script" path="res://Menu.gd" id="1_m5n6k"]
+[ext_resource type="PackedScene" uid="uid://dqcnb7nivx4jd" path="res://GlobalAudio.tscn" id="2_quf47"]
+
+[node name="Menu" type="Control"]
+layout_mode = 3
+anchor_right = 0.732
+anchor_bottom = 1.0
+offset_top = 9.0
+offset_right = -3.26404
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_m5n6k")
+
+[node name="Play" type="Button" parent="."]
+layout_mode = 0
+offset_left = 315.0
+offset_top = 10.0
+offset_right = 725.0
+offset_bottom = 216.0
+text = "play"
+
+[node name="Options" type="Button" parent="."]
+layout_mode = 0
+offset_left = 319.0
+offset_top = 231.0
+offset_right = 721.0
+offset_bottom = 428.0
+text = "options"
+
+[node name="Quit" type="Button" parent="."]
+layout_mode = 0
+offset_left = 324.0
+offset_top = 436.0
+offset_right = 717.0
+offset_bottom = 613.0
+text = "quit"
+
+[node name="GlobalAudio" parent="." instance=ExtResource("2_quf47")]
+volume_db = -10.0
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(566, 304)
+
+[connection signal="pressed" from="Play" to="." method="_on_play_pressed"]
+[connection signal="pressed" from="Options" to="." method="_on_options_pressed"]
+[connection signal="pressed" from="Quit" to="." method="_on_quit_pressed"]
