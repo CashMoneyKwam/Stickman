@@ -1,6 +1,14 @@
 This is a fan project made for RDCWorld1, inspired by their video "How Game Developers feel when a Simple Game Blows Up", which features a Stickman game that made an additional apperance in
 "How Video Game Developers really feel about Twitch Streamers". 
 
+INSTRUCTIONS: 
+
+Stickman is a game made for 2 players, whose goal is to jump towards the middle and reach the "Dub" button first. 
+
+Both Player 1 and Player 2 are equidistant from the "Dub" button. While the screen/camera may or may not look symetrical, both Players are mapped out 800 units from the Dub button on both sides.
+
+VERSIONS: 
+
 This fan made game has two versions
 
 Version 1. This version features a "Red Light, Green Light" mechanic, where the players can only move when the light/circle turns green. https://github.com/CashMoneyKwam/Stickman/releases/tag/V1
