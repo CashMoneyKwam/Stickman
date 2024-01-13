@@ -3,8 +3,8 @@ This is a fan project made for RDCWorld1, inspired by their video "How Game Deve
 
 This fan made game has two versions
 
-Version 1. This version features a "Red Light, Green Light" mechanic, where the players can only move when the light/circle turns green.
+Version 1. This version features a "Red Light, Green Light" mechanic, where the players can only move when the light/circle turns green. https://github.com/CashMoneyKwam/Stickman/releases/tag/V1
 
-Version 2. This version is the same recreation you see in the RDCWorld1 videos, and is just regular jumping to the middle. 
+Version 2. This version is the same recreation you see in the RDCWorld1 videos, and is just regular jumping to the middle. https://github.com/CashMoneyKwam/Stickman/releases/tag/V1
 
 In both Version 1 and Version 2, the player cannot hold down the movement key, they have to prove they are the better player by pressing the buttons at a faster speed. 
