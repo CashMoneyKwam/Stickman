@@ -11,10 +11,12 @@ In both Version 1 and Version 2, the player cannot hold down the movement key, t
 
 CONTROLS: 
 
-The keyboard buttons for Player 1 (Red) are "A"
-The Xbox Buttons for Player 1 (Red) are "X", "Y", "A," "B", "RT(RightTrigger)", and "LT(LeftTrigger)"
+There is only one movement command for each player, which is to jump towards the "Dub" button, every keybinding listed below is simply alternative keybinds that the player can press to move.  
 
-The keyboard buttons for Player 2 (Green) are "L"
-The Xbox Buttons for Player 1 (Green) are "X", "Y", "A," "B", "RT(RightTrigger)", and "LT(LeftTrigger)"
+The keyboard bindings for Player 1 (Red) are "A"
+The Xbox bindings for Player 1 (Red) are "X", "Y", "A," "B", "RT(RightTrigger)", and "LT(LeftTrigger)"
+
+The keyboard bindings for Player 2 (Green) are "L"
+The Xbox bindings for Player 1 (Green) are "X", "Y", "A," "B", "RT(RightTrigger)", and "LT(LeftTrigger)"
 
 Unfortunately there isn't any input/keybinding remapping. Maybe it will be implemented in version 2.0.
