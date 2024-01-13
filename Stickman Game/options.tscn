@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://dj2u4xtcopjax"]
+
+[ext_resource type="Script" path="res://Options.gd" id="1_78o30"]
+
+[node name="Options" type="Node2D"]
+script = ExtResource("1_78o30")
+
+[node name="HSlider" type="HSlider" parent="."]
+offset_right = 490.0
+offset_bottom = 101.0
+max_value = 1.0
+step = 0.1
+value = 1.0
