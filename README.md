@@ -38,4 +38,4 @@ Unfortunately there isn't any input/keybinding remapping. Maybe it will be imple
 
 MESSAGE FOR RDCWORLD1: 
 
-If RDC is reading this, my goal was always to become RDC's Audio Engineer/Tech Guy/Secondary Writer/etc. Everything I do is for lifetime friendships with good energy, I'm not interested in the bag, I just wanted to be big enough to be noticed by RDC. If you feel like you need a different person for ANY job, hit me up, because I truly don't care about being on camera, I just wanted to be part of the RDC family. I'll learn or do whatever it takes, because I've never come across friendship as pure as RDC. All love, my boys, stay up. 
+If RDC is reading this, my goal was always to become RDC's Audio Engineer/Tech Guy/Secondary Writer/etc. Everything I do is for lifetime friendships with good energy, I'm not interested in the bag, I just wanted to be big enough to be noticed by RDC. If you feel like you need a different person for ANY job, hit me up, because I truly don't care about being on camera, I just wanted to be part of the RDC family. I'll learn or do whatever it takes, because I've never seen a friendship as pure as RDC. All love, my boys, stay up. 
