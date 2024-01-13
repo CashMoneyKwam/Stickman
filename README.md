@@ -11,8 +11,8 @@ In both Version 1 and Version 2, the player cannot hold down the movement key, t
 
 CONTROLS: 
 
-**The game is played on 1 PC, either 2 players share a keyboard, or they plug in 2 different Xbox controllers. 
-The game should recognize the different Xbox controllers, so that the same buttons won't move both players. **
+The game is played on 1 PC, either 2 players share a keyboard, or they plug in 2 different Xbox controllers. 
+The game should recognize the different Xbox controllers, so that the same buttons won't move both players.
 
 There is only one movement command for each player, which is to jump towards the "Dub" button, every keybinding listed below is simply alternative keybinds that the player can press to move.  
 
