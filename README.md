@@ -1,3 +1,5 @@
+DESCRIPTION: 
+
 This is a fan project made for RDCWorld1, inspired by their video "How Game Developers feel when a Simple Game Blows Up", which features a Stickman game that made an additional apperance in
 "How Video Game Developers really feel about Twitch Streamers". 
 
