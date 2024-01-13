@@ -34,8 +34,7 @@ The Xbox bindings for Player 1 (Red) are "X", "Y", "A," "B", "RT(RightTrigger)",
 The keyboard bindings for Player 2 (Green) are "L"
 The Xbox bindings for Player 1 (Green) are "X", "Y", "A," "B", "RT(RightTrigger)", and "LT(LeftTrigger)"
 
-Unfortunately there isn't any input/keybinding remapping. Maybe it will be implemented in version 2.0.
-
+Unfortunately there isn't any input/keybinding remapping. Maybe it will be implemented in the next versions. 
 MESSAGE FOR RDCWORLD1: 
 
 If RDC is reading this, my goal was always to become RDC's Audio Engineer/Tech Guy/Secondary Writer/etc. Everything I do is for lifetime friendships with good energy, I'm not interested in the bag, I just wanted to be big enough to be noticed by RDC. If you feel like you need a different person for ANY job, hit me up, because I truly don't care about being on camera, I just wanted to be part of the RDC family. I'll learn or do whatever it takes, because I've never seen a friendship as pure as RDC. All love, my boys, stay up. 
