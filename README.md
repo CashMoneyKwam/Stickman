@@ -1,7 +1,7 @@
 DESCRIPTION: 
 
 This is a fan project made for RDCWorld1, inspired by their video "How Game Developers feel when a Simple Game Blows Up", which features a Stickman game that made an additional apperance in
-"How Video Game Developers really feel about Twitch Streamers". 
+"How Video Game Developers really feel about Twitch Streamers". I left a personal message to RDC at the bottom of my description. If RDC sees this, please read the message when you get the chance. 
 
 Demonstration Video (Tutorial for MEland): https://www.youtube.com/watch?v=zo6co-lIrhY
 
