@@ -8,3 +8,13 @@ Version 1. This version features a "Red Light, Green Light" mechanic, where the 
 Version 2. This version is the same recreation you see in the RDCWorld1 videos, and is just regular jumping to the middle. https://github.com/CashMoneyKwam/Stickman/releases/tag/V2
 
 In both Version 1 and Version 2, the player cannot hold down the movement key, they have to prove they are the better player by pressing the buttons at a faster speed. 
+
+CONTROLS: 
+
+The keyboard buttons for Player 1 (Red) are "A"
+The Xbox Buttons for Player 1 (Red) are "X", "Y", "A," "B", "RT(RightTrigger)", and "LT(LeftTrigger)"
+
+The keyboard buttons for Player 2 (Green) are "L"
+The Xbox Buttons for Player 1 (Green) are "X", "Y", "A," "B", "RT(RightTrigger)", and "LT(LeftTrigger)"
+
+Unfortunately there isn't any input/keybinding remapping. Maybe it will be implemented in version 2.0.
